@@ -1,0 +1,13 @@
+{
+  "name": "gettext-merge",
+  "version": "0.1.0",
+  "description": "Merge .pot with .po ",
+  "main": "index.js",
+  "author": "Bruno Bertolini",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "gettext-parser": "^1.1.2",
+    "yargs": "^4.1.0"
+  }
+}
