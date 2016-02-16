@@ -1,5 +1,7 @@
 # Gettext Merge
 
+[![NPM](https://nodei.co/npm/gettext-merge.png?downloads=true)](https://nodei.co/npm/gettext-merge/)
+
 Merge gettext template files with existents .po without losing the current translations
 
 ## Install
